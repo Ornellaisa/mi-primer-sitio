@@ -1,34 +1,43 @@
-h1 {
-    color:rgb(42, 1, 1);
+header h1 {
+    color:rgb(45, 1, 52);
     font-size: 70px;
     text-align: center;
-    padding-top: 35px;
+    padding-top: 30px;
+}
+
+#cabecera h3 {
+    text-align: center;
+    text-transform: uppercase;
+    color:rgb(255, 255, 255);
 }
 
 h2 {
-    color:rgb(42, 1, 1);
-    font-size: 30px
+    color:rgb(45, 1, 52);
+    font-size: 30px;
 }
 
 .botonera {
     width: 100%;
     height: 70px;
-    background-color:rgb(121, 8, 29);
+    background-color:rgb(69, 23, 124);
 }
 
 #cabecera {
     width: 100%;
-    height: 200px;
-    background-color:rgb(252, 190, 190);
-    background-attachment: local;
+    height: 400px;
+    display:flex;
+    background-image: url("img/fondo-main.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 
 }
 
 header p {
     font-size: 15px;
-}
-
-.texto-ppal p {
-    color:rgb(37, 1, 1);
+    font-family: "Tajawal", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    padding-top: 6px;
 }
 
 *{
@@ -42,15 +51,20 @@ article {
 
 
 .caja {
-    width: 300px;
-    height: 300px;
-    background-color:rgb(252, 190, 190);
-    padding: 25px;
-    margin: 20px;
+    width: 230px;
+    height: 700px;
+    background-color:rgb(190, 135, 218);
+    border-radius: 12px;
+    padding-left: 25px;
+    padding-right: 25px;
     border-width: 2px;
     border-style:dashed;
-    border-color:darkred;
+    border-color:rgb(50, 2, 71);
     box-sizing: border-box;
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+
 }
 
 ul {
@@ -59,13 +73,51 @@ ul {
     padding-top: 20px;
 }
 
+.caja ul li {
+    padding-top: 5px;
+}
+
+.caja h3 {
+    margin-top: 35px;
+
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 .menu ul {
-    margin-left: 460px;
-    padding-top: 25px;
+    margin-left: 100px;
+    padding-top: 8px;
+    margin-right: 25px;
     list-style-type: none;
     display: flex;
     gap: 50px;
-    color: white;
+    justify-content: flex-start;
+}
+
+
+.menu .logo {
+    width: 50px;
+    height: auto;
+    display: flex;
+    margin-left: 25px;
+    margin-top: 10px;
+}   
+
+.logo-titulo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.menu h2 {
+    flex-direction: row;
+    font-size: 25px;
+    color:rgb(255, 255, 255);
+    margin-top: 10px;
 }
 
 a {
@@ -76,28 +128,98 @@ a {
 
 .botonera a:hover {
     font-size: 1em;
-    color:rgb(255, 164, 187);
-    background-color: rgb(57, 11, 11);
+    color:rgb(190, 135, 218);
+    background-color: rgb(110, 37, 138);
     padding: 8px 18px;
+    border-radius: 12px;
 }
 
 .correo p a {
-color:rgb(121, 8, 29)
+    color:rgb(121, 8, 29);
 }
 
 .footer {
-background-color: rgb(252, 190, 190);
-width: 100%;
-height: 90px;
+    background-color: rgb(190, 135, 218);
+    width: 100%;
+    height: 90px;
 }
+
 
 footer h3 {
-    padding-left: 30px;
+    text-align: center;
     padding-top: 20px;
-    color:rgb(42, 1, 1)
+    color:rgb(26, 1, 42);
+    margin-bottom: 6px;
+    font-size: 24px;
 }
 
-footer p {
-    padding-top: 10px;
-    padding-left: 30px;
+.redes-sociales {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    padding: 0;
+    margin: 0;
 }
+
+.redes-sociales a {
+    display: flex; 
+    align-items: center; 
+    text-decoration: none;
+    color: rgb(37, 4, 60); 
+     gap: 8px; 
+  
+}
+
+.redes-sociales a:hover {
+    color:white;
+}
+
+.redes-sociales li {
+    list-style: none;
+    display: flex;
+    Font-size: 15px;
+} 
+
+.redes-sociales img {
+    display: flex;
+    Width: 25px; 
+    height: auto;
+} 
+
+main {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(214, 175, 218);
+}    
+
+.estudios {
+    margin-top: 25px;
+    margin-right: 25px;
+} 
+
+.mi-foto {
+    margin-top: 25px;
+    margin-left: 35px;
+} 
+
+.ornella {
+    margin-top: 115px;
+    margin-right: 55px;
+    width: 300px;
+    height: auto;
+} 
+
+.datos {
+   color:rgb(59, 12, 88)
+} 
+
+.quien-soy {
+    margin-left: 60px;
+    text-align:center;
+    margin-top: 25px;
+    width: 250px;
+    color:rgb(59, 12, 88)
+ } 
+
