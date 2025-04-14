@@ -13,13 +13,16 @@ header h1 {
 
 h2 {
     color:rgb(45, 1, 52);
-    font-size: 30px;
+    font-size: 25px;
+    font-family: "DM Sans", sans-serif;
 }
 
 .botonera {
     width: 100%;
     height: 70px;
     background-color:rgb(69, 23, 124);
+    font-family: "DM Sans", sans-serif;
+
 }
 
 #cabecera {
@@ -32,23 +35,10 @@ h2 {
     background-size: 100% 
 }
 
-header p {
-    font-size: 15px;
-    font-family: "Tajawal", sans-serif;
-    font-weight: 300;
-    font-style: normal;
-    padding-top: 6px;
-}
-
 *{
     margin: 0px;
     padding: 0px;
 }
-
-article {
-    display: flex;
-}
-
 
 .caja {
     width: 230px;
@@ -70,17 +60,31 @@ article {
 ul {
     list-style-type: circle;
     padding-left: 25px;
-    padding-top: 20px;
+    padding-top: 6px;
+}
+
+.caja li {
+    font-size: 13px;
+    display: flex;
+    align-items: center;
 }
 
 .caja ul li {
     padding-top: 5px;
+    font-family: "DM Sans", sans-serif;
 }
 
 .caja h3 {
     margin-top: 35px;
-
+    font-family: "DM Sans", sans-serif;
 }
+
+li img {
+    margin-right: 7px;
+    padding-top: 0px;
+}
+   
+
 
 .menu {
     display: flex;
@@ -115,9 +119,12 @@ ul {
 
 .menu h2 {
     flex-direction: row;
-    font-size: 25px;
+    font-size: 15px;
     color:rgb(255, 255, 255);
     margin-top: 10px;
+    text-transform: uppercase;
+    font-style: italic;
+
 }
 
 a {
@@ -197,6 +204,13 @@ main {
 .estudios {
     margin-top: 25px;
     margin-right: 25px;
+    margin-bottom: 25px;
+    font-family: "DM Sans", sans-serif;
+} 
+
+.estudios p {
+   font-size: 14px;
+   padding-top: 5px;
 } 
 
 .mi-foto {
@@ -205,21 +219,35 @@ main {
 } 
 
 .ornella {
-    margin-top: 115px;
+    margin-top: 50px;
     margin-right: 55px;
     width: 300px;
     height: auto;
 } 
 
 .datos {
-   color:rgb(59, 12, 88)
+    padding-left: 80px;
+    font-size: 14px;
+    font-family: "DM Sans", sans-serif;
+    margin-top: 12px;
+    margin-bottom: 25px;
+    color:rgb(59, 12, 88)
+} 
+
+.datos li {
+    margin-top: 5px;
 } 
 
 .quien-soy {
-    margin-left: 60px;
-    text-align:center;
-    margin-top: 25px;
-    width: 250px;
-    color:rgb(59, 12, 88)
+    margin-left: 6px;
+    text-align:left;
+    margin-top: 14px;
+    width: 400px;
+    color:rgb(59, 12, 88);
+    font-family: "DM Sans", sans-serif;
  } 
 
+h3 {
+   padding-top: 8px;
+    font-size: 17px;
+ } 
