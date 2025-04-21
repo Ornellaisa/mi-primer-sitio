@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 793.7 793.7" style="enable-background:new 0 0 793.7 793.7;" xml:space="preserve">
+	 viewBox="0 0 22.1 22.1" style="enable-background:new 0 0 22.1 22.1;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#260C4F;}
-	.st1{fill:none;stroke:#FFFFFF;stroke-width:41;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:133.3333;}
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:none;stroke:#FFFFFF;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:133.3333;}
 </style>
-<path class="st0" d="M663-2.37H130.71C57.51-2.37-2.37,57.51-2.37,130.7v532.29c0,73.19,59.88,133.07,133.07,133.07H663
-	c73.19,0,133.07-59.88,133.07-133.07V130.7C796.07,57.51,736.19-2.37,663-2.37z"/>
-<path class="st1" d="M404.79,152.27h-81.53c-45.03,0-81.53,36.5-81.53,81.53s36.5,81.53,81.53,81.53 M404.79,152.27v163.05
-	 M404.79,152.27h81.53c45.03,0,81.53,36.5,81.53,81.53s-36.5,81.53-81.53,81.53 M404.79,315.33h-81.53 M404.79,315.33v163.05
-	 M404.79,315.33h81.53 M323.27,315.33c-45.03,0-81.53,36.5-81.53,81.53s36.5,81.53,81.53,81.53 M404.79,478.38h-81.53
-	 M404.79,478.38v81.53c0,45.03-36.5,81.53-81.53,81.53s-81.53-36.5-81.53-81.53c0-45.03,36.5-81.53,81.53-81.53 M486.32,315.33
-	c45.03,0,81.53,36.5,81.53,81.53s-36.5,81.53-81.53,81.53s-81.53-36.5-81.53-81.53S441.29,315.33,486.32,315.33z"/>
+<g>
+	<radialGradient id="SVGID_1_" cx="11.062" cy="11.062" r="11.062" gradientUnits="userSpaceOnUse">
+		<stop  offset="1.779265e-02" style="stop-color:#C6436A"/>
+		<stop  offset="0.6751" style="stop-color:#8C2139"/>
+		<stop  offset="1" style="stop-color:#751325"/>
+	</radialGradient>
+	<path class="st0" d="M18.4,0H3.7C1.7,0,0,1.7,0,3.7v14.7c0,2,1.7,3.7,3.7,3.7h14.7c2,0,3.7-1.7,3.7-3.7V3.7C22.1,1.7,20.5,0,18.4,0
+		z"/>
+	<path class="st1" d="M11.3,4.3H9c-1.2,0-2.3,1-2.3,2.3s1,2.3,2.3,2.3 M11.3,4.3v4.5 M11.3,4.3h2.3c1.2,0,2.3,1,2.3,2.3
+		s-1,2.3-2.3,2.3 M11.3,8.8H9 M11.3,8.8v4.5 M11.3,8.8h2.3 M9,8.8c-1.2,0-2.3,1-2.3,2.3s1,2.3,2.3,2.3 M11.3,13.3H9 M11.3,13.3v2.3
+		c0,1.2-1,2.3-2.3,2.3s-2.3-1-2.3-2.3s1-2.3,2.3-2.3 M13.5,8.8c1.2,0,2.3,1,2.3,2.3s-1,2.3-2.3,2.3s-2.3-1-2.3-2.3
+		S12.3,8.8,13.5,8.8z"/>
+</g>
 </svg>

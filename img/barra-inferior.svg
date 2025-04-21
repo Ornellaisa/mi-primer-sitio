@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 921.4 56.5" style="enable-background:new 0 0 921.4 56.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:url(#SVGID_1_);stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:url(#SVGID_2_);stroke-width:2;stroke-miterlimit:10;}
+	.st2{fill:none;}
+	.st3{fill:#9D0009;}
+	.st4{font-family:'PTSans-Italic';}
+	.st5{font-size:19px;}
+	.st6{fill:url(#SVGID_3_);}
+	.st7{fill:none;stroke:#C6436A;stroke-width:2;stroke-miterlimit:10;}
+	.st8{fill:url(#SVGID_4_);}
+</style>
+<radialGradient id="SVGID_1_" cx="-4171.1182" cy="-34157.3281" r="241.4175" gradientTransform="matrix(0.4426 0 0 1.4649 2029.766 399.7236)" gradientUnits="userSpaceOnUse">
+	<stop  offset="1.779265e-02" style="stop-color:#C6436A"/>
+	<stop  offset="0.6751" style="stop-color:#8C2139"/>
+	<stop  offset="1" style="stop-color:#751325"/>
+</radialGradient>
+<line class="st0" x1="334.8" y1="28.3" x2="32.6" y2="28.3"/>
+<radialGradient id="SVGID_2_" cx="-2917.2246" cy="-34157.3281" r="241.4175" gradientTransform="matrix(0.4426 0 0 1.4649 2029.766 399.7236)" gradientUnits="userSpaceOnUse">
+	<stop  offset="1.779265e-02" style="stop-color:#C6436A"/>
+	<stop  offset="0.6751" style="stop-color:#8C2139"/>
+	<stop  offset="1" style="stop-color:#751325"/>
+</radialGradient>
+<line class="st1" x1="889.7" y1="28.3" x2="587.5" y2="28.3"/>
+<rect x="358" y="18.8" class="st2" width="221.7" height="22.4"/>
+<text transform="matrix(1 0 0 1 358.0114 32.1267)" class="st3 st4 st5">Ornella Negro - Curriculum</text>
+<radialGradient id="SVGID_3_" cx="-557.9598" cy="28.2522" r="12.9932" gradientTransform="matrix(0.8532 0 0 1 493.619 0)" gradientUnits="userSpaceOnUse">
+	<stop  offset="1.779265e-02" style="stop-color:#C6436A"/>
+	<stop  offset="0.6751" style="stop-color:#8C2139"/>
+	<stop  offset="1" style="stop-color:#751325"/>
+</radialGradient>
+<polygon class="st6" points="17.6,15.3 20.5,24.9 28.7,28.3 20.5,31.6 17.6,41.2 14.7,31.6 6.5,28.3 14.7,24.9 "/>
+<ellipse transform="matrix(0.3004 -0.9538 0.9538 0.3004 -14.64 36.5439)" class="st7" cx="17.6" cy="28.3" rx="28" ry="15"/>
+<ellipse transform="matrix(0.9601 -0.2795 0.2795 0.9601 -7.1961 6.0439)" class="st7" cx="17.6" cy="28.3" rx="15" ry="28"/>
+<radialGradient id="SVGID_4_" cx="480.8377" cy="28.2522" r="12.9932" gradientTransform="matrix(0.8532 0 0 1 493.619 0)" gradientUnits="userSpaceOnUse">
+	<stop  offset="1.779265e-02" style="stop-color:#C6436A"/>
+	<stop  offset="0.6751" style="stop-color:#8C2139"/>
+	<stop  offset="1" style="stop-color:#751325"/>
+</radialGradient>
+<polygon class="st8" points="903.8,15.3 906.7,24.9 914.9,28.3 906.7,31.6 903.8,41.2 901,31.6 892.8,28.3 901,24.9 "/>
+<ellipse transform="matrix(0.3004 -0.9538 0.9538 0.3004 605.3542 881.8571)" class="st7" cx="903.8" cy="28.3" rx="28" ry="15"/>
+<ellipse transform="matrix(0.9601 -0.2795 0.2795 0.9601 28.1333 253.7809)" class="st7" cx="903.8" cy="28.3" rx="15" ry="28"/>
+</svg>
